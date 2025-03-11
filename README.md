@@ -56,7 +56,10 @@ MONGODB_URI=<your_mongodb_connection_string>
 
 ## Video Walkthrough
 
-[Link to video walkthrogh demonstrating the API functionality here]
+
+https://github.com/user-attachments/assets/831b52e6-b9c1-416c-809b-b06cf31c5631
+
+
 
 ## Technologies Used
 
